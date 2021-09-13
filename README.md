@@ -1,4 +1,4 @@
-# Horiseon Base Page
+# Horiseon Refactor
 
 ## Description
 This project was to refractor a webpages code so that the links function, as well as CSS selectors/properties are consolidated and sematic and to optimize the code for search engines.
